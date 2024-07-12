@@ -1,0 +1,1 @@
+web: streamlit run SEM_auto_heroku.py --server.port=$PORT
